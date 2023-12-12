@@ -1,0 +1,81 @@
+body{
+    background-color:grey ;
+}
+#gw { background-color: black;
+    color: antiquewhite;
+
+    text-align: center;
+
+
+}
+#gs {
+    background-color: gray;
+    font-size: larger;
+    text-align: justify;
+    color: beige;
+    margin-left: 410px;
+    text-decoration:underline;
+    text-decoration-color: blue;
+    color: black;
+    margin-top: 40px;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+
+#gss{
+    font-size: 30px;
+    margin-top: 40px;
+    text-decoration:underline;
+    text-decoration-color: blue;
+    color: black;
+    margin-left: 210px;
+    font-size: larger;
+    margin-top: 40px;
+    font-style: italic;
+
+}
+#gsss{
+    font-size: 30px;
+    margin-top: 40px;
+    text-decoration:underline;
+    text-decoration-color: blue;
+    color: black;
+    margin-left: 430px;
+    font-size: larger;
+    margin-top: 40px;
+    font-style: italic;
+
+}
+#gssss{
+    font-size: 30px;
+    margin-top: 40px;
+    text-decoration:underline;
+    text-decoration-color: blue;
+    color: black;
+    margin-left: 430px;
+    font-size: larger;
+    margin-top: 40px;
+    font-style: italic;
+
+}
+#gt{
+    
+    font-size: 30px;
+    margin-top: 40px;
+    text-decoration:underline;
+    text-decoration-color: blue;
+    color: black;
+    margin-left:450px;
+    font-size: larger;
+    margin-top: 40px;
+    font-style: italic;
+}
+#gu {
+    font-size: 50px;
+    text-decoration:underline;
+    text-decoration-color: blue;
+    margin-left:450px;
+    font-style: italic;
+    
+}
